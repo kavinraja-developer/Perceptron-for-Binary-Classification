@@ -1,7 +1,4 @@
-<H2>Name: KAVINRAJA D</H3>
-<H2>Register no: 212222240047</H3>
-<H2>Date: </H3>
-<H2>Experiment No. 2 </H3>
+
 
 # Implementation of Perceptron for Binary Classification
 # AIM:
